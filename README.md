@@ -1,2 +1,1 @@
-# graphic-magazine-project
-Designed a digital magazine layout using Adobe Photoshop. The project included a conference theme, speaker profiles with images, and highlighted event details. Applied layout design, typography, and image placement to create a clear and visually appealing magazine page.
+This project contains a series of infographics that I have created to visually represent data, concepts, and digital design projects. Each infographic combines creativity, clarity, and design principles to make complex information easy to understand.
